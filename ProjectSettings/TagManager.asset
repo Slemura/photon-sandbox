@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Floor
   layers:
   - Default
   - TransparentFX
@@ -13,7 +14,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - Character
   - 
   - 
   - 
@@ -40,4 +41,25 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 82741687
+    locked: 0
+  - name: Bushes
+    uniqueID: 2035191651
+    locked: 0
+  - name: Trees
+    uniqueID: 3593044217
+    locked: 0
+  - name: Rock
+    uniqueID: 3596370351
+    locked: 0
+  - name: Characters
+    uniqueID: 1800397571
+    locked: 0
+  - name: Grass
+    uniqueID: 404768219
+    locked: 0
+  - name: Foreground
+    uniqueID: 415278779
     locked: 0
